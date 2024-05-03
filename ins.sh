@@ -1,5 +1,5 @@
 #!data/data/com.termux/files/etc
-#Tool By Stephin-Franklin
+#Tool By Stealth Virus
 #ThAnKS For your Supporting 
 ################
 cyn='\e[0;36m'
