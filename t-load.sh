@@ -1,5 +1,5 @@
-#!Script  author st1chb45h
-#By Anonymous Tim3
+#!Script  author Stealth Virus
+#By AnonymousPH
 #Never give up
 
 ###################################
@@ -27,9 +27,9 @@ echo -e "\e[1m\e[31m\
               ██║      ███████╗╚██████╔╝██║  ██║██████╔╝
               ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.0"
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mSTEPHIN \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mStealthVirus \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31m.youtube.com/anonymousTim3\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31m.youtube.com/Cambuhawe Adventure\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
